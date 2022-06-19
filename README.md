@@ -1,12 +1,12 @@
 # WebsitesList
 
-##RUN BACKEND:
+## RUN BACKEND:
 
 In the project backend directory run
 
 ### mvn spring-boot:run
 
-#localhost:8080/api/webpages/
+# localhost:8080/api/webpages/
 
 #RUN FRONTEND:
 
@@ -22,5 +22,5 @@ In the project directory run
 
 ### `npm start`
 
-#localhost:3000/
+# localhost:3000/
 
