@@ -1,0 +1,14 @@
+INSERT INTO WebPages (ID, TITLE, URL, LOGO) VALUES (1, '15min', 'www.15min.lt', 'https://www.15min.lt/img/logos/15min_logo_spalvotas_RGB_1647817286.svg');
+INSERT INTO WebPages (ID, TITLE, URL, LOGO) VALUES (2, 'Delfi', 'www.delfi.lt', 'https://g1.dcdn.lt/glt/c/delfi-logo/delfi-ua.png');
+INSERT INTO WebPages (ID, TITLE, URL, LOGO) VALUES (3, 'Java', 'https://www.java.com/en/', 'https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-1024x640.png');
+INSERT INTO WebPages (ID, TITLE, URL, LOGO) VALUES (4, 'spring.io', 'https://spring.io/', 'https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg');
+INSERT INTO WebPages (ID, TITLE, URL, LOGO) VALUES (5, 'reactjs', 'https://reactjs.org/', 'https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark-700x235.png');
+INSERT INTO WebPages (ID, TITLE, URL, LOGO) VALUES (6, 'nasa', 'https://www.nasa.gov/', 'https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg');
+INSERT INTO WebPages (ID, TITLE, URL, LOGO) VALUES (7, 'physicsworld', 'https://physicsworld.com/', 'https://physicsworld.com/wp-content/themes/iopp/assets/img/svg/pw-logo-red.svg');
+INSERT INTO WebPages (ID, TITLE, URL, LOGO) VALUES (8, 'bbc', 'https://www.bbc.com/', 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/1600px-BBC_Logo_2021.svg.png?20211204121228');
+INSERT INTO WebPages (ID, TITLE, URL, LOGO) VALUES (9, 'docker', 'https://www.docker.com/', 'https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png');
+INSERT INTO WebPages (ID, TITLE, URL, LOGO) VALUES (10, 'H2 database', 'https://www.h2database.com/html/main.html', 'https://www.h2database.com/html/images/h2-logo-2.png');
+INSERT INTO WebPages (ID, TITLE, URL, LOGO) VALUES (11, 'mdn', 'https://developer.mozilla.org/en-US/', 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/MDN_Web_Docs_logo.svg/1024px-MDN_Web_Docs_logo.svg.png?20220301183245');
+INSERT INTO WebPages (ID, TITLE, URL, LOGO) VALUES (12, 'maven', 'https://maven.apache.org/', 'https://maven.apache.org/images/maven-logo-black-on-white.png');
+INSERT INTO WebPages (ID, TITLE, URL, LOGO) VALUES (13, 'Baeldung', 'https://www.baeldung.com/', 'https://miro.medium.com/max/1200/1*UWLR9XgcVbjI8ebYIeKh_Q.png');
+INSERT INTO WebPages (ID, TITLE, URL, LOGO) VALUES (14, 'Medium', 'https://medium.com/', 'https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png');
